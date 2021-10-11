@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaSystemPerformanceOptimization.iml" filepath="$PROJECT_DIR$/.idea/JavaSystemPerformanceOptimization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-introduction/ch01.iml" filepath="$PROJECT_DIR$/1-introduction/ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-string/ch02.iml" filepath="$PROJECT_DIR$/2-string/ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-concurrent/ch03.iml" filepath="$PROJECT_DIR$/3-concurrent/ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-skill/ch04.iml" filepath="$PROJECT_DIR$/4-skill/ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-tool/ch05.iml" filepath="$PROJECT_DIR$/5-tool/ch05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-asm/ch11.iml" filepath="$PROJECT_DIR$/9-asm/ch11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-jsr/ch12-parent.iml" filepath="$PROJECT_DIR$/10-jsr/ch12-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-jit/git.iml" filepath="$PROJECT_DIR$/8-jit/git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-jsr/hello-examples/hello-examples.iml" filepath="$PROJECT_DIR$/10-jsr/hello-examples/hello-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-jsr/hello-processor/hello-processor.iml" filepath="$PROJECT_DIR$/10-jsr/hello-processor/hello-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-javaodc/javadoc.iml" filepath="$PROJECT_DIR$/6-javaodc/javadoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-jsr/processor/processor.iml" filepath="$PROJECT_DIR$/10-jsr/processor/processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-jsr/processor-annotations/processor-annotations.iml" filepath="$PROJECT_DIR$/10-jsr/processor-annotations/processor-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-jsr/processor-test/processor-test.iml" filepath="$PROJECT_DIR$/10-jsr/processor-test/processor-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-readable/style.iml" filepath="$PROJECT_DIR$/7-readable/style.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMPluginConfiguration">
+    <asm skipDebug="false" skipFrames="false" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/8-jit/pom.xml" />
+        <option value="$PROJECT_DIR$/9-asm/pom.xml" />
+        <option value="$PROJECT_DIR$/10-jsr/pom.xml" />
+        <option value="$PROJECT_DIR$/5-tool/pom.xml" />
+        <option value="$PROJECT_DIR$/4-skill/pom.xml" />
+        <option value="$PROJECT_DIR$/2-string/pom.xml" />
+        <option value="$PROJECT_DIR$/6-javaodc/pom.xml" />
+        <option value="$PROJECT_DIR$/7-readable/pom.xml" />
+        <option value="$PROJECT_DIR$/1-introduction/pom.xml" />
+        <option value="$PROJECT_DIR$/3-concurrent/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

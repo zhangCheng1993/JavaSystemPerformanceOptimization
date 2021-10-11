@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hello-examples" />
+        <module name="javadoc" />
+        <module name="git" />
+        <module name="ch05" />
+        <module name="ch03" />
+        <module name="ch04" />
+        <module name="processor-annotations" />
+        <module name="ch01" />
+        <module name="ch02" />
+        <module name="processor-test" />
+        <module name="style" />
+        <module name="ch11" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch01" target="1.8" />
+      <module name="ch02" target="1.8" />
+      <module name="ch03" target="1.8" />
+      <module name="ch04" target="1.8" />
+      <module name="ch04 (1)" target="1.8" />
+      <module name="ch05" target="1.8" />
+      <module name="ch11" target="1.8" />
+      <module name="ch12-parent" target="1.5" />
+      <module name="git" target="1.5" />
+      <module name="hello-examples" target="1.8" />
+      <module name="hello-processor" target="1.8" />
+      <module name="javadoc" target="1.5" />
+      <module name="processor" target="1.8" />
+      <module name="processor-annotations" target="1.8" />
+      <module name="processor-test" target="1.8" />
+      <module name="style" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
